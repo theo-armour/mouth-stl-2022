@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iTeroExport Version="3.0">
+	<RxInfo>
+		<OrderID>76392642</OrderID>
+		<OrderCode>02NR8VTN</OrderCode>
+		<CaseTypeID>34</CaseTypeID>
+		<CaseTypeName>Invisalign + iRecord</CaseTypeName>
+		<Patient>Theo, Armour</Patient>
+		<Doctor>Dr. Growney, Kevin C</Doctor>
+		<DoctorID>144015</DoctorID>
+		<DoctorLicense>52860</DoctorLicense>
+		<DoctorCompanyID>88662</DoctorCompanyID>
+		<DueDate>12/13/2021</DueDate>
+		<LabID>-1</LabID>
+		<PracticeShipToAddress>2827 Franklin St San Francisco California United States 94123-3107</PracticeShipToAddress>
+		<ExportTime>12/14/2021 20:34:02</ExportTime>
+		<UtcOffset>0</UtcOffset>
+		<CaaSVersion>0.7.3.25</CaaSVersion>
+		<iTeroVersion>1.12.0.990</iTeroVersion>
+	</RxInfo>
+	<ExportedObjects>
+		<Object ObjectType="Image" SubType="Gallery" FileName="gallery_#76392642.jpg"/>
+		<Object ObjectType="Surface" SubType="Jaw" JawId="Lower" FileName="76392642_shell_teethup_l.stl"/>
+		<Object ObjectType="Surface" SubType="Jaw" JawId="Upper" FileName="76392642_shell_teethup_u.stl"/>
+	</ExportedObjects>
+</iTeroExport>
