@@ -36,3 +36,9 @@ https://theo-armour.github.io/mouth-stl-2022/OrthoCAD_Export_76392642%20(5)/gall
 
 https://theo-armour.github.io/mouth-stl-2022/OrthoCAD_Export_76392642%20(5)/gallery_%2376392642_penta_upper_m.jpg
 
+
+https://theo-armour.github.io/mouth-stl-2022/OrthoCAD_Export_76392642%20(5)/76392642_shell_teethup_u.stl
+
+
+https://www.ladybug.tools/spider-2021/spider-viewer/#https://theo-armour.github.io/mouth-stl-2022/OrthoCAD_Export_76392642%20(5)/76392642_shell_teethup_u.stl
+
