@@ -1,4 +1,14 @@
-# mouth-stl-2022
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/theo-armour/mouth-stl-2022/ "Source code on GitHub" ) [Spider 2022]( https://theo-armour.github.io/mouth-stl-2022/ "Home page" ) / [Simple STL Read Me]( https://theo-armour.github.io/mouth-stl-2022/#simple-stl/README.md)
+
+
+<!--@@@
+<div class=iframe-resize ><iframe src=https://theo-armour.github.io/mouth-stl-2022/simple-stl/ height=100% width=100% ></iframe></div>
+_Simple STL in a resizable window. One finger to rotate. Two to zoom._
+@@@-->
+
+### Full Screen: [Simple STL]( https://theo-armour.github.io/mouth-stl-2022/simple-stl/ )
+
+
 
 STL files of my mouth
 
@@ -40,5 +50,5 @@ https://theo-armour.github.io/mouth-stl-2022/OrthoCAD_Export_76392642%20(5)/gall
 https://theo-armour.github.io/mouth-stl-2022/OrthoCAD_Export_76392642%20(5)/76392642_shell_teethup_u.stl
 
 
-https://www.ladybug.tools/spider-2021/spider-viewer/#https://theo-armour.github.io/mouth-stl-2022/OrthoCAD_Export_76392642%20(5)/76392642_shell_teethup_u.stl
+https://www.theo-armour.github.io/spider-2021/spider-viewer/#https://theo-armour.github.io/mouth-stl-2022/OrthoCAD_Export_76392642%20(5)/76392642_shell_teethup_u.stl
 
