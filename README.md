@@ -13,6 +13,10 @@ _Simple STL in a resizable window. One finger to rotate. Two to zoom._
 
 * STL files of my mouth
 * Demo prepared for Dr V at UCSF to show that creating utilities for loading and displaying STL files is easy-peasy
+* Apparently the STL files contain color data but the current viewer is not yet color-enabled (but could be ;-)
+
+The procedures for loading and displaying STL files are well-established and generally do not place heady loads on modern computers.
+
 
 ## Links of Interest
 
@@ -37,13 +41,11 @@ https://theo-armour.github.io/mouth-stl-2022/OrthoCAD_Export_76392642%20(4)/gall
 https://theo-armour.github.io/mouth-stl-2022/OrthoCAD_Export_76392642%20(4)/gallery_%2376392642_penta_upper_m.jpg
 
 
-
 ## To Do / Wish List
 
+* Add color support
 
 ## Issues
-
-
 
 
 
@@ -51,7 +53,7 @@ https://theo-armour.github.io/mouth-stl-2022/OrthoCAD_Export_76392642%20(4)/gall
 
 ### 2022-07-10
 
-* Add Simole STL viewer
+* Add Simple STL viewer
 
 ### 2022-07-8
 
