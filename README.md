@@ -6,7 +6,7 @@
 _Simple STL in a resizable window. One finger to rotate. Two to zoom._
 @@@-->
 
-### Full Screen: [Simple STL]( https://theo-armour.github.io/mouth-stl-2022/simple-stl/ )
+## Full Screen 3D STL file Viewer: [Simple STL]( https://theo-armour.github.io/mouth-stl-2022/simple-stl/ )
 
 
 STL files of my mouth

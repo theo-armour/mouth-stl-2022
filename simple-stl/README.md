@@ -1,12 +1,12 @@
-# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/theo-armour/mouth-stl-2022/tree/main/simple-stl "Source code on GitHub" ) / [Simple STL Read Me]( https://theo-armour.github.io/mouth-stl-2022/simple-stl/README.md)
+# [![](https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg )](https://github.com/theo-armour/mouth-stl-2022/tree/main/simple-stl "Source code on GitHub" ) [Simple STL Read Me]( https://theo-armour.github.io/mouth-stl-2022/simple-stl/README.md)
 
 
 <!--@@@
-<div class=iframe-resize ><iframe src=https://ladybug.tools/spider-2022/cookbook/simple-stl/ height=100% width=100% ></iframe></div>
+<div class=iframe-resize ><iframe src=https://theo-armour.github.io/mouth-stl-2022/simple-stl/ height=100% width=100% ></iframe></div>
 _Simple STL in a resizable window. One finger to rotate. Two to zoom._
 @@@-->
 
-### Full Screen: [Simple STL]( https://ladybug.tools/spider-2022/cookbook/simple-stl/ )
+## Full Screen: [Simple STL]( https://theo-armour.github.io/mouth-stl-2022/simple-stl/ )
 
 
 ## Concept

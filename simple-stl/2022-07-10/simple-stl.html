@@ -106,7 +106,7 @@
 			<summary>show&darr; || hide&uarr; </summary>
 
 			<h1>
-				<a href="https://github.com/theo-armour/mouth-stl-2022" target="_blank"
+				<a href="https://github.com/theo-armour/mouth-stl-2022/tree/main/simple-stl" target="_blank"
 					title="source code on GitHub"><img
 						src=https://pushme-pullyou.github.io/tootoo-2022/assets/icons/mark-github.svg></a>
 				<a href="" id=aTitle title="Click this menu title to reset the model"></a>
@@ -255,7 +255,7 @@
 
 				},
 
-				( xhr ) => console.log( ( xhr, xhr.loaded / xhr.total * 100 ).toFixed() + '% loaded' ),
+				( xhr ) => divMessage.innerText = `${ ( xhr.loaded / xhr.total * 100 ).toFixed() }% loaded`,
 
 				( error ) => console.log( 'An error happened', error )
 
