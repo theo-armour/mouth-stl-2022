@@ -23,6 +23,12 @@ _Simple STL in a resizable window. One finger to rotate. Two to zoom._
 
 ## Change Log
 
+## 2022-07-12
+
+* Upper and lower
+* Load and remove
+* Supports colors & shadows
+
 
 ### 2022-07-10
 
